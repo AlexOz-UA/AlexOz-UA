@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 my name is Alex, i am 18 y.o. Developer from Ukraine.</h1>
+<h1 align="center">Hi there 👋 my name is Alex, i am 19 y.o. Developer from Ukraine.</h1>
 <h3 align="center">I am mainly coding in JavaScript, by building Frontend part of the websites. I also have experience with Backend part of the web. Doing websites is not only my job, but also my passion(and obsession). Building websites is like an art for me!</h3>
 
 - 🌱 I’m currently learning **Golang**
